@@ -20,3 +20,6 @@ cache_store_key = "hasSwaggerUI"
 partial = "hugomods/swagger-ui/assets/js"
 cacheable = true
 cache_store_key = "hasSwaggerUI"
+
+[params.swagger_ui]
+sass_transpiler = "dartsass"
