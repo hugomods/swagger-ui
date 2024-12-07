@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/hugomods/swagger-ui",
   "devDependencies": {
-    "@hugomods/prettier-config": "^0.1.0",
+    "@hugomods/prettier-config": "^0.2.0",
     "@tsconfig/recommended": "^1.0.2",
     "stylelint": "^16.0.0",
     "stylelint-config-standard-scss": "^14.0.0",
